@@ -1,0 +1,3 @@
+hello-data_structures-algorithms
+
+本项目是个人学习数据结构与算法的笔记。会使用go和java来实现经典的数据结构和算法，以及leetCode上的算法题。
